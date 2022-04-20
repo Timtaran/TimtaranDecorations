@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Decorations",
+    "icon": {
+      "value": "Blocks.SEA_LANTERN"
+    },
+    "showSearch": true
+  }
+}

@@ -1,1 +1,5 @@
-{}
+{
+  "itemGroup.tabdecorations": "Декорации",
+  "entity.timtarans_decorations.chair": "Chair",
+  "item.timtarans_decorations.chair_spawn_egg": "Chair Spawn Egg"
+}

@@ -1,10 +1,37 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Decorations",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "decorations",
+      "path": "~/Decorations/CTabs"
+    },
+    {
+      "name": "Chair",
+      "type": "livingentity",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chair",
+      "path": "~/Decorations/Blocks"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "ru_ru": {},
-    "en_us": {}
+    "ru_ru": {
+      "itemGroup.tabdecorations": "Декорации",
+      "entity.timtarans_decorations.chair": "Chair",
+      "item.timtarans_decorations.chair_spawn_egg": "Chair Spawn Egg"
+    },
+    "en_us": {
+      "itemGroup.tabdecorations": "Decorations",
+      "entity.timtarans_decorations.chair": "Chair",
+      "item.timtarans_decorations.chair_spawn_egg": "Chair Spawn Egg"
+    }
   },
   "foldersRoot": {
     "name": "~",
@@ -43,10 +70,11 @@
   "workspaceSettings": {
     "modid": "timtarans_decorations",
     "modName": "Timtaran\u0027s Decorations",
-    "version": "1.0.0",
-    "author": "Timtaran, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "version": "0.0.0",
+    "description": "Minecraft mod for MineScale",
+    "author": "Timtaran",
+    "websiteURL": "https://timtaran.tk",
+    "license": "GNU General Public License version 3 (GPLv3)",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -54,6 +82,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.16.5",
+    "credits": "Thanks for MCReator creators",
     "modElementsPackage": "net.mcreator.timtaransdecorations",
     "lockBaseModFiles": false
   },

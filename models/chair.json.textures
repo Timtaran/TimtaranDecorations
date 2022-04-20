@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "birch_planks",
+        "1": "lime_wool"
+      },
+      "name": "default"
+    }
+  }
+}

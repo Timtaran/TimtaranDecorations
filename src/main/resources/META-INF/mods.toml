@@ -1,14 +1,17 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="Academic Free License v3.0"
+license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="timtarans_decorations"
-version="1.0.0"
+version="0.0.0"
 displayName="Timtaran's Decorations"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="Timtaran, MCreator"
+credits="Thanks for MCReator creators"
+displayURL="https://timtaran.tk"
+authors="Timtaran"
+description='''
+Minecraft mod for MineScale
+'''
 
 [[dependencies.timtarans_decorations]]
     modId="minecraft"
