@@ -3,11 +3,42 @@
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
+    "ru_ru": {},
     "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Decorations",
+        "children": [
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Paintings",
+            "children": []
+          },
+          {
+            "name": "CTabs",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Food",
+        "children": []
+      },
+      {
+        "name": "Armor",
+        "children": []
+      },
+      {
+        "name": "Weapon",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "timtarans_decorations",
